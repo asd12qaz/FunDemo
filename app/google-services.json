@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "441121166335",
+    "firebase_url": "https://atmlogin-e22ae-default-rtdb.firebaseio.com",
+    "project_id": "atmlogin-e22ae",
+    "storage_bucket": "atmlogin-e22ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441121166335:android:fdf3d6554018000f930dca",
+        "android_client_info": {
+          "package_name": "com.home.atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441121166335-36am15slmvnbokn4qg50jcnh01rurhfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaD0AUX6wy6zfgAK6YKJ0N3yv5KsPY4cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441121166335-36am15slmvnbokn4qg50jcnh01rurhfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441121166335:android:2dc8d976ea270c8a930dca",
+        "android_client_info": {
+          "package_name": "com.home.funtester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441121166335-36am15slmvnbokn4qg50jcnh01rurhfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaD0AUX6wy6zfgAK6YKJ0N3yv5KsPY4cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441121166335-36am15slmvnbokn4qg50jcnh01rurhfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
